@@ -5,7 +5,7 @@ Follow these steps to set up and run the project on your local machine.
 ### 1️⃣ **Clone the Repository**
 Run the following command to clone the repository to your local machine:
 ```bash
-git clone https://github.com/mokshit-sandhu/Image-Generator
+git clone https://github.com/mokshit-sandhu/Mashup-Generator
 ```
 
 ### 2️⃣ **Navigate to the Project Directory**
